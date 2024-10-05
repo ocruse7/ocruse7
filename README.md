@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @ocruse7
-- 👀 I’m interested in web development, AI, and the Ethereum blockchain
-- 🌱 I’m currently learning Solidity and ReactJS
+- 👋 Hi, I’m Owen
+- 👀 I’m currently a software engineer in the finTech space
+- 🌱 I’m currently mastering Vue, Python, and TypeScript
 - 📫 Reach out at ocruse7@gmail.com
 
 <!---
